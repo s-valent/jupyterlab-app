@@ -41,7 +41,9 @@ If everything is ready, just click the app icon. You also can run it from termin
 ### Disclaimers
 - icon borrowed [here](https://github.com/nanoant/jupterlab-macos-runner) (simular project)
 which is taken from [here](https://jupyter.org) and slightly redesigned.
+- on a screenshot [font JetBrains Mono](https://www.jetbrains.com/lp/mono/) is used
 
 ### Knows Bugs
 - if app stays inactive for a while (~3-4 min for me), webview doesn't respond immediately.
 (Please, help me! I have absolutely no idea how to fix it).
+- Terminal is not rendering properly
