@@ -39,7 +39,7 @@ If everything is ready, just click the app icon. You also can run it from termin
 
 
 ### Disclaimers
-- icon borrowed [here](https://github.com/nanoant/jupterlab-macos-runner) (simular project)
+- icon is borrowed from [here](https://github.com/nanoant/jupterlab-macos-runner) (similar project)
 which is taken from [here](https://jupyter.org) and slightly redesigned.
 - [font JetBrains Mono](https://www.jetbrains.com/lp/mono/) is used on a screenshot
 
