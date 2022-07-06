@@ -1,14 +1,21 @@
 # JupyterLab App for macOS
+### This repository is now archived
+
+When you are reading this, this repository is probably already archived.
+It was a fun quick project, but I didn't use it for quite a while, and I will probably never update it. Also, the official repository is now alive and well, so [go check it out](https://github.com/jupyterlab/jupyterlab-desktop). I switched to Jupyter Notebooks, so if you are interested, you can find [a new project here](https://github.com/python-mac/jupyter-app).
+
+---
+
 An app that launches and displays jupyter-lab.
 
 ![screenshot](screenshot.png)
 
 ### Overview
 
-Unfortunately, [the official desktop app](https://github.com/jupyterlab/jupyterlab_app) succesfully died,
+~~Unfortunately, [the official desktop app](https://github.com/jupyterlab/jupyterlab-desktop) successfully died~~,
 so this is one of many apps that try to replace it.
 
-This app can run jupyter-lab:
+This app can run `jupyter-lab`:
 
 - in a separate window like it's own app (because it is) and not in browser tab
 - without an opened terminal window (but if you like it, just use it as an *c.LabApp.browser*)
@@ -16,13 +23,10 @@ This app can run jupyter-lab:
 It is written on Swift and SwiftUI. It is my first project on Swift, sorry about bad coding style.
 
 ### Why another similar app?
-I thought it will be a good practise for me. Almost every app that I found didn't do what I wanted.
+I thought it will be a good practice for me. Almost every app that I found didn't do what I wanted.
 The best one that I found is [this one](https://github.com/nanoant/jupterlab-macos-runner), but it's written on another language.
 I was trying to fix webview problem (see known bugs), but I had no luck.
 This app still uses different mechanics to run and stop jupyter-lab.
-
-### Where to download?
-[Right here!](https://github.com/s-valent/jupyterlab-app/releases)
 
 ### How to run?
 Make sure you've already installed python and jupyter-lab and everything works fine.
